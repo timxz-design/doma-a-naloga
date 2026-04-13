@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude mcp:*)",
+      "Bash(npx claude:*)",
+      "Bash(npx bmad-method:*)",
+      "Bash(git -C \"C:/Users/nikni/Desktop/exercises\" remote -v)",
+      "Bash(git -C \"C:/Users/nikni/Desktop/exercises\" remote add origin https://github.com/timxz-design/doma-a-naloga.git)",
+      "Bash(git -C \"C:/Users/nikni/Desktop/exercises\" push -u origin main)",
+      "Bash(git -C \"C:/Users/nikni/Desktop/exercises\" status)",
+      "Bash(git -C \"C:/Users/nikni/Desktop/exercises\" log --oneline -5)",
+      "Bash(git -C \"C:/Users/nikni/Desktop/exercises\" add .claude/ _bmad/)",
+      "Bash(git -C C:/Users/nikni/Desktop/exercises commit -m ':*)"
+    ]
+  }
+}
