@@ -1,0 +1,8 @@
+streamlit>=1.36.0
+langchain
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+chromadb
+sentence-transformers
+pandas
